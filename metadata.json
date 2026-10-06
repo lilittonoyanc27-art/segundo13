@@ -1,0 +1,6 @@
+{
+  "name": "Aprende Español con Vídeo",
+  "description": "Plataforma interactiva para aprender español con vídeo y traducción al armenio. Ինտերակտիվ ուսումնական հարթակ իսպաներենի համար։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
